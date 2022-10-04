@@ -47,7 +47,7 @@ Shopping list displays a number of products. It allows to add a new product or t
 
 ## Development
 
-Backend was run on local computer with a Docker image created ad hoc which included nginX, PHP and MySQL (https://github.com/mrmatteorusso/product-list-mvc). The Doker image was used in a Linux environment through WSL2 with Docker Desktop for Windows. The database was set with MySQL Workbench and the data was tested through Postman.
+Backend was run on local computer with a Docker image created ad hoc which included nginX, PHP and MySQL. The Doker image was used in a Linux environment through WSL2 with Docker Desktop for Windows. The database was set with MySQL Workbench and the data was tested through Postman.
 
 For the frontend React Query was used to deal smoothly with the fetch requests.
 
